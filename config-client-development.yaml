@@ -1,3 +1,5 @@
+user:
+  role: developer
 folder:
   jobs:
     job1:
