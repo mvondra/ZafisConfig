@@ -1,2 +1,8 @@
-user:
-    role: developer
+folder:
+  jobs:
+    job1:
+      pollTimer: '750'
+      pollFolder: input1
+      failFolder: error
+      isXmlLoadable: true
+      jobTemplateName: cm8-import
