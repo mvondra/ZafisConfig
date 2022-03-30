@@ -1,8 +1,6 @@
-user:
-  role: developer
 folder:
   jobs:
-    job1:
+    jobRemote1:
       pollTimer: '750'
       pollFolder: input1
       failFolder: error
